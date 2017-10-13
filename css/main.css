@@ -14,12 +14,17 @@ text-decoration: none;}
 a:hover{
 color:#b42885;
 text-decoration: none;}
-h1,h2,h3{
+h2{
   font-family: 'Patua One', cursive;
-  color:#5d8432
+  color:#5d8432;
+  font-weight:normal;
 }
-h1{font-size:200%}
-figure
+
+figure1
 figcaption{
   text-align:center;
-  font-size:80%}
+  font-size:}
+figure2
+figcaption{
+  text-align:center;
+  font-size:}
