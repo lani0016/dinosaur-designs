@@ -1,4 +1,25 @@
-html {background-color: #f2f1ed;
-  font family: Georgia, serif;
-  line-height:1.5rem;
+html {
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+  line-height: 1.5rem
 }
+nav
+{font-weight:bold;
+font-family: 'Patua One', cursive;
+font-size: 1.25rem
+}
+a:link{
+color:#793284;
+text-decoration: none;}
+a:hover{
+color:#b42885;
+text-decoration: none;}
+h1,h2,h3{
+  font-family: 'Patua One', cursive;
+  color:#5d8432
+}
+h1{font-size:200%}
+figure
+figcaption{
+  text-align:center;
+  font-size:80%}
